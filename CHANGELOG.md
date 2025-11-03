@@ -1,3 +1,11 @@
+# [1.13.0](https://github.com/Lansweeper/SMBLibrary/compare/v1.12.0...v1.13.0) (2025-11-03)
+
+
+### Features
+
+* ACME-30470 - Update catalog-info.repo.yaml ([132fcab](https://github.com/Lansweeper/SMBLibrary/commit/132fcab1cc8cb09e91fdec2785f6a235f10ff9e2))
+* ACME-30470 - Update CODEOWNERS ([bf800df](https://github.com/Lansweeper/SMBLibrary/commit/bf800dfb95e5ff720754c9f4ab0d99e008080126))
+
 # [1.12.0](https://github.com/Lansweeper/SMBLibrary/compare/v1.11.0...v1.12.0) (2024-06-06)
 
 
