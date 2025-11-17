@@ -16,7 +16,7 @@ parameters:
 executors:
   node:
     docker:
-      - image: cimg/node:18.9.0
+      - image: cimg/node:18.17.0
 
 orbs:
   win: circleci/windows@2.4.1
