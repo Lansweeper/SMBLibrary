@@ -1,3 +1,15 @@
+## [1.13.1](https://github.com/Lansweeper/SMBLibrary/compare/v1.13.0...v1.13.1) (2025-11-18)
+
+
+### Bug Fixes
+
+* LAN-17880 another deps update ([97b282b](https://github.com/Lansweeper/SMBLibrary/commit/97b282bae213fedac673d3724694fab9a7615ae0))
+* LAN-17880 update circleCI node version ([7d0942b](https://github.com/Lansweeper/SMBLibrary/commit/7d0942b34b22344f71dcb1ef6a62f98b0a4377d6))
+* LAN-17880 update deps ([807fc94](https://github.com/Lansweeper/SMBLibrary/commit/807fc94a5f5ef534a022357ee810d64a65f68102))
+* LAN-17880 update node in yarn ([75d1cf2](https://github.com/Lansweeper/SMBLibrary/commit/75d1cf29467e565321c6bf57806856ed5d43dc62))
+* LAN-17880 updated deps ([272b394](https://github.com/Lansweeper/SMBLibrary/commit/272b394396a8b8107056777672a5999dc0b0c010))
+* LAN-17880 updated yarn ([6aa48d4](https://github.com/Lansweeper/SMBLibrary/commit/6aa48d421174fc972772a7f80deb6eb47ffa82cb))
+
 # [1.13.0](https://github.com/Lansweeper/SMBLibrary/compare/v1.12.0...v1.13.0) (2025-11-03)
 
 
